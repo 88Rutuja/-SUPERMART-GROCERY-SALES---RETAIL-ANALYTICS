@@ -1,2 +1,2 @@
-# -SUPERMART-GROCERY-SALES---RETAIL-ANALYTICS
-This analysis will be done using numPy, pandas, matplotlib and seaborn libraries in python programming language.
+# SUPERMART-GROCERY-SALES---RETAIL-ANALYTICS
+Retail analytics focuses on providing insights related to sales, inventory, customers, and other important aspects crucial for merchants’ decision-making process
